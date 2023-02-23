@@ -2,7 +2,7 @@
 # GitHub Link -
 https://github.com/ThakurVikrant/quiz_project2-main.git
 
-#import module-
+# import module-
 1- Flask - pip install flask
 2- SQLalchemy -pip install sqlalchemy
 3- flash - pip install flash
@@ -10,7 +10,7 @@ https://github.com/ThakurVikrant/quiz_project2-main.git
 5- redirect - pip install redirect
 6 -Python - pip install python
 
-#points
+# points
 1- Be use sqlalchemy for database connection
 2- Be use crud option for (Create,Read,Update,Delete)
 3- Be cretae Quiz App with Flask Framework
