@@ -7,6 +7,7 @@
 # When Complete questions, result will be shown.
 # Also Add a User Table In Admin Page with scoring result
 ![Screenshot (56)](https://user-images.githubusercontent.com/120724102/220873370-f8e9394e-bbcc-4611-b515-5fcd5bb742fd.png)
-![Screenshot (57)](http![Screenshot (58)](https://user-images.githubusercontent.co![Screenshot (59)](https://user-images.githubusercontent.com/120724102/220873429-f8bc0750-fa03-4ce4-9e48-7f64b13d12d5.png)
-m/120724102/220873413-c2474759-14e5-4b86-a972-3353ba619fad.png)
-s://user-images.githubusercontent.com/120724102/220873400-e9002c7d-fe16-4dee-96b8-c5612b041fac.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/120724102/220873801-82f5aa78-d67a-41d7-956c-f7d27570af24.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/120724102/220873824-5e84892e-a78a-4105-911a-6f700ce93142.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/120724102/220873841-5217c4ea-9a90-473f-855a-e19151542d0e.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/120724102/220873861-3953f66d-1e6d-4aed-a46b-2ac6eee7bf26.png)
